@@ -22,9 +22,25 @@ h4{
     border: lightgray 1px solid;
     padding: 12px;
     float: right;
-    width: 80%;
+    width: 78%;
 }
 .menu{
-    width: 10%;
+    width: 15%;
     float: left;
+}
+ul li{
+    list-style: none;
+    margin: 10px;
+}
+a{
+    display:block;
+    text-align: center;
+    background-color: rgb(142, 226, 103);
+    width: 80px;
+    padding: 8px;
+    text-decoration: none;
+}
+a:hover{
+    background-color: rgb(236, 169, 24);
+    text-decoration: none;
 }
