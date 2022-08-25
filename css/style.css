@@ -1,0 +1,9 @@
+body{
+    background-color: lightgrey;
+    margin: auto;
+    width: 40%;
+}
+
+h1, h3{
+    font-style: italic;
+}
