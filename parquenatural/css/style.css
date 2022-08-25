@@ -1,0 +1,18 @@
+body{
+    font-family: "Lucida Sans Unicode";
+}
+h1{
+    text-align: center;
+    color: orange;
+    letter-spacing: 10px;
+}
+span{
+    color: green;
+}
+h3{
+    color: greenyellow;
+    border-bottom: lightgray 1px solid;
+}
+h4{
+    color: orange;
+}
